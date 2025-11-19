@@ -56,3 +56,33 @@ VALUES
  'Flowy sage A-line midi dress with a fitted bodice and classic short sleeves.',
  'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_dress_3.png?raw=true',
  NOW(), 9, 'women');
+
+('White Classic Canvas Sneaker', 'Shoes', 'White', '8', 44.99, 25,
+ 'Minimalist white canvas sneaker with a durable rubber sole and timeless low-top design.',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_sneaker_1.png?raw=true',
+ NOW(), 10, 'women'),
+
+('Cream Low-Top Casual Sneaker', 'Shoes', 'Cream', '8', 49.99, 22,
+ 'Soft cream low-top sneaker built for comfort with foam cushioning and clean stitching.',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_sneaker_2.png?raw=true',
+ NOW(), 11, 'women'),
+
+('Black & White Athletic Runner Sneaker', 'Shoes', 'Black/White', '8', 59.99, 18,
+ 'Lightweight athletic running sneaker with breathable mesh and a responsive sole.',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_sneaker_3.png?raw=true',
+ NOW(), 12, 'women');
+
+('Tan Lace-Up Block Heel Boot', 'Shoes', 'Tan', '8', 69.99, 16,
+ 'Sturdy tan lace-up ankle boot with block heel, rugged tread, and smooth leather finish.',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_boot_1.png?raw=true',
+ NOW(), 13, 'women'),
+
+('Black Chunky Chelsea Boot', 'Shoes', 'Black', '8', 74.99, 14,
+ 'Sleek black Chelsea boot with elastic side panels and a chunky lug sole.',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_boot_2.png?raw=true',
+ NOW(), 14, 'women'),
+
+('Light Tan Lace-Up Ankle Boot', 'Shoes', 'Tan', '8', 69.99, 18,
+ 'Light tan ankle boot featuring classic lace-up design, durable sole, and stylish stitching.',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_boot_3.png?raw=true',
+ NOW(), 15, 'women');
