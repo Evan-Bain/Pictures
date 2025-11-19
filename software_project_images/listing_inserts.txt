@@ -86,3 +86,18 @@ VALUES
  'Light tan ankle boot featuring classic lace-up design, durable sole, and stylish stitching.',
  'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_boot_3.png?raw=true',
  NOW(), 15, 'women');
+
+('Black Suede Pointed-Toe Heel', 'Shoes', 'Black', '8', 64.99, 20,
+ 'Elegant black suede pointed-toe pump with a slim 3-inch heel and classic silhouette.',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_heel_1.png?raw=true',
+ NOW(), 16, 'women'),
+
+('Blush Pink High Heel Pump', 'Shoes', 'Pink', '8', 67.99, 18,
+ 'Soft blush pink suede pump featuring a pointed toe and refined high heel design.',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_heel_2.png?raw=true',
+ NOW(), 17, 'women'),
+
+('Beige Classic High Heel Pump', 'Shoes', 'Beige', '8', 69.99, 22,
+ 'Versatile beige pointed-toe pump with smooth texture and a slender 3.5-inch heel.',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_heel_3.png?raw=true',
+ NOW(), 18, 'women');
