@@ -55,7 +55,7 @@ VALUES
 ('Sage Green A-Line Short-Sleeve Dress', 'Dresses', 'Green', 'M', 54.99, 15,
  'Flowy sage A-line midi dress with a fitted bodice and classic short sleeves.',
  'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_dress_3.png?raw=true',
- NOW(), 9, 'women');
+ NOW(), 9, 'women'),
 
 ('White Classic Canvas Sneaker', 'Shoes', 'White', '8', 44.99, 25,
  'Minimalist white canvas sneaker with a durable rubber sole and timeless low-top design.',
@@ -70,7 +70,7 @@ VALUES
 ('Black & White Athletic Runner Sneaker', 'Shoes', 'Black/White', '8', 59.99, 18,
  'Lightweight athletic running sneaker with breathable mesh and a responsive sole.',
  'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_sneaker_3.png?raw=true',
- NOW(), 12, 'women');
+ NOW(), 12, 'women'),
 
 ('Tan Lace-Up Block Heel Boot', 'Shoes', 'Tan', '8', 69.99, 16,
  'Sturdy tan lace-up ankle boot with block heel, rugged tread, and smooth leather finish.',
@@ -85,7 +85,7 @@ VALUES
 ('Light Tan Lace-Up Ankle Boot', 'Shoes', 'Tan', '8', 69.99, 18,
  'Light tan ankle boot featuring classic lace-up design, durable sole, and stylish stitching.',
  'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_boot_3.png?raw=true',
- NOW(), 15, 'women');
+ NOW(), 15, 'women'),
 
 ('Black Suede Pointed-Toe Heel', 'Shoes', 'Black', '8', 64.99, 20,
  'Elegant black suede pointed-toe pump with a slim 3-inch heel and classic silhouette.',
@@ -100,4 +100,53 @@ VALUES
 ('Beige Classic High Heel Pump', 'Shoes', 'Beige', '8', 69.99, 22,
  'Versatile beige pointed-toe pump with smooth texture and a slender 3.5-inch heel.',
  'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_heel_3.png?raw=true',
- NOW(), 18, 'women');
+ NOW(), 18, 'women'),
+
+('Cream Canvas Tote Bag', 'Accessories', 'Cream', 'One Size', 29.99, 30,
+ 'Minimalist cream canvas tote bag with reinforced handles and clean stitching.',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_bag_1.png?raw=true',
+ NOW(), 19, 'women'),
+
+('Black Crescent Shoulder Bag', 'Accessories', 'Black', 'One Size', 39.99, 24,
+ 'Sleek black faux-leather crescent bag featuring a padded strap and smooth grain texture.',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_bag_2.png?raw=true',
+ NOW(), 20, 'women'),
+
+('Olive Green Crossbody Bag', 'Accessories', 'Green', 'One Size', 42.99, 22,
+ 'Compact olive green crossbody with gold hardware and a soft matte finish.',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_bag_3.png?raw=true',
+ NOW(), 21, 'women'),
+
+('Gold Opal Pendant Necklace', 'Accessories', 'Gold', 'One Size', 49.99, 35,
+ 'Delicate gold chain necklace featuring an iridescent oval opal pendant.',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_jewelry_1.png?raw=true',
+ NOW(), 22, 'women'),
+
+('Gold Gemstone Hoop Earring', 'Accessories', 'Gold', 'One Size', 34.99, 40,
+ 'Polished gold hoop earring adorned with three clear faceted gemstones.',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_jewelry_2.png?raw=true',
+ NOW(), 23, 'women'),
+
+('Gold Onyx Signet Ring', 'Accessories', 'Gold/Black', '7', 44.99, 28,
+ 'Elegant gold signet ring featuring a smooth oval black onyx stone.',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_jewelry_3.png?raw=true',
+ NOW(), 24, 'women'),
+
+('Cream Woven Sun Hat', 'Accessories', 'Cream', 'One Size', 24.99, 30,
+ 'Lightweight cream woven sun hat with a soft brim and textured spiral weave.',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_hat_1.png?raw=true',
+ NOW(), 25, 'women'),
+
+('Black Wide-Brim Bucket Hat', 'Accessories', 'Black', 'One Size', 21.99, 28,
+ 'Minimalist black bucket hat made from soft fabric with circular stitched detailing.',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_hat_2.png?raw=true',
+ NOW(), 26, 'women'),
+
+('Navy Blue Baseball Cap', 'Accessories', 'Navy', 'One Size', 19.99, 35,
+ 'Classic navy blue six-panel baseball cap with a curved brim and fine topstitching.',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_hat_3.png?raw=true',
+ NOW(), 27, 'women'),
+
+
+
+
