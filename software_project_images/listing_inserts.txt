@@ -8,17 +8,17 @@ VALUES
 -- =========================
 ('Grey Ribbed Fitted Tee', 'Tops', 'Grey', 'M', 18.99, 40,
  'Short-sleeve ribbed fitted tee in heather grey, perfect for layering or everyday wear.',
- 'https://yourcdn.com/images/womens_top_grey_ribbed_01.png',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/womens_tops_1.png?raw=true',
  NOW(), 1, 'women'),
 
 ('Ivory Ruffle-Neck Sleeveless Blouse', 'Tops', 'White', 'M', 29.99, 25,
  'Lightweight sleeveless blouse with a soft V-neck and gentle ruffle detailing at the collar.',
- 'https://yourcdn.com/images/womens_top_ivory_blouse_01.png',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_tops_2.png?raw=true',
  NOW(), 2, 'women'),
 
 ('Cream Square-Neck Ribbed Sweater', 'Tops', 'Cream', 'M', 39.99, 20,
  'Cozy long-sleeve ribbed sweater featuring a modern square neckline and a flattering fit.',
- 'https://yourcdn.com/images/womens_top_square_neck_sweater_01.png',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_top_3.png?raw=true',
  NOW(), 3, 'women'),
 
 -- =========================
@@ -26,17 +26,17 @@ VALUES
 -- =========================
 ('Classic Straight-Leg Blue Jeans', 'Bottoms', 'Blue', 'M', 49.99, 30,
  'Mid-rise straight-leg denim jeans in a clean medium blue wash, ideal for everyday style.',
- 'https://yourcdn.com/images/womens_jeans_straight_blue_01.png',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_jeans_1.png?raw=true',
  NOW(), 4, 'women'),
 
 ('High-Rise Sculpt Blue Jeans', 'Bottoms', 'Blue', 'M', 54.99, 28,
  'High-waisted sculpt-fit blue jeans with stretch comfort and a flattering silhouette.',
- 'https://yourcdn.com/images/womens_jeans_highrise_blue_01.png',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_jeans_2.png?raw=true',
  NOW(), 5, 'women'),
 
 ('Vintage Wide-Leg Blue Jeans', 'Bottoms', 'Blue', 'M', 59.99, 22,
  'High-rise wide-leg denim with soft fading and a relaxed retro look.',
- 'https://yourcdn.com/images/womens_jeans_wideleg_blue_01.png',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_jeans_3.png?raw=true',
  NOW(), 6, 'women'),
 
 -- =========================
@@ -44,15 +44,15 @@ VALUES
 -- =========================
 ('Black Spaghetti-Strap Midi Dress', 'Dresses', 'Black', 'M', 49.99, 20,
  'Minimalist black midi dress with thin straps and a smooth A-line flow.',
- 'https://yourcdn.com/images/womens_dress_black_01.png',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_dress_1.png?raw=true',
  NOW(), 7, 'women'),
 
 ('Red Fitted Short-Sleeve Midi Dress', 'Dresses', 'Red', 'M', 52.99, 18,
  'Bold red fitted midi dress with short sleeves and a sleek textured finish.',
- 'https://yourcdn.com/images/womens_dress_red_01.png',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_dress_2.png?raw=true',
  NOW(), 8, 'women'),
 
 ('Sage Green A-Line Short-Sleeve Dress', 'Dresses', 'Green', 'M', 54.99, 15,
  'Flowy sage A-line midi dress with a fitted bodice and classic short sleeves.',
- 'https://yourcdn.com/images/womens_dress_green_01.png',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_dress_3.png?raw=true',
  NOW(), 9, 'women');
