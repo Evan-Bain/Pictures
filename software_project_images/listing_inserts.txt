@@ -24,17 +24,17 @@ VALUES
 -- =========================
 -- WOMEN'S JEANS (3)
 -- =========================
-('Classic Straight-Leg Blue Jeans', 'Bottoms', 'Blue', 'M', 49.99, 30,
+('Classic Straight-Leg Blue Jeans', 'Jeans', 'Blue', 'M', 49.99, 30,
  'Mid-rise straight-leg denim jeans in a clean medium blue wash, ideal for everyday style.',
  'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_jeans_1.png?raw=true',
  NOW(), 4, 'women'),
 
-('High-Rise Sculpt Blue Jeans', 'Bottoms', 'Blue', 'M', 54.99, 28,
+('High-Rise Sculpt Blue Jeans', 'Jeans', 'Blue', 'M', 54.99, 28,
  'High-waisted sculpt-fit blue jeans with stretch comfort and a flattering silhouette.',
  'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_jeans_2.png?raw=true',
  NOW(), 5, 'women'),
 
-('Vintage Wide-Leg Blue Jeans', 'Bottoms', 'Blue', 'M', 59.99, 22,
+('Vintage Wide-Leg Blue Jeans', 'Jeans', 'Blue', 'M', 59.99, 22,
  'High-rise wide-leg denim with soft fading and a relaxed retro look.',
  'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_jeans_3.png?raw=true',
  NOW(), 6, 'women'),
@@ -57,96 +57,234 @@ VALUES
  'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_dress_3.png?raw=true',
  NOW(), 9, 'women'),
 
-('White Classic Canvas Sneaker', 'Shoes', 'White', '8', 44.99, 25,
+('White Classic Canvas Sneaker', 'Sneakers', 'White', '8', 44.99, 25,
  'Minimalist white canvas sneaker with a durable rubber sole and timeless low-top design.',
  'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_sneaker_1.png?raw=true',
  NOW(), 10, 'women'),
 
-('Cream Low-Top Casual Sneaker', 'Shoes', 'Cream', '8', 49.99, 22,
+('Cream Low-Top Casual Sneaker', 'Sneakers', 'Cream', '8', 49.99, 22,
  'Soft cream low-top sneaker built for comfort with foam cushioning and clean stitching.',
  'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_sneaker_2.png?raw=true',
  NOW(), 11, 'women'),
 
-('Black & White Athletic Runner Sneaker', 'Shoes', 'Black/White', '8', 59.99, 18,
+('Black & White Athletic Runner Sneaker', 'Sneakers', 'Black/White', '8', 59.99, 18,
  'Lightweight athletic running sneaker with breathable mesh and a responsive sole.',
  'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_sneaker_3.png?raw=true',
  NOW(), 12, 'women'),
 
-('Tan Lace-Up Block Heel Boot', 'Shoes', 'Tan', '8', 69.99, 16,
+('Tan Lace-Up Block Heel Boot', 'Boots', 'Tan', '8', 69.99, 16,
  'Sturdy tan lace-up ankle boot with block heel, rugged tread, and smooth leather finish.',
  'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_boot_1.png?raw=true',
  NOW(), 13, 'women'),
 
-('Black Chunky Chelsea Boot', 'Shoes', 'Black', '8', 74.99, 14,
+('Black Chunky Chelsea Boot', 'Boots', 'Black', '8', 74.99, 14,
  'Sleek black Chelsea boot with elastic side panels and a chunky lug sole.',
  'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_boot_2.png?raw=true',
  NOW(), 14, 'women'),
 
-('Light Tan Lace-Up Ankle Boot', 'Shoes', 'Tan', '8', 69.99, 18,
+('Light Tan Lace-Up Ankle Boot', 'Boots', 'Tan', '8', 69.99, 18,
  'Light tan ankle boot featuring classic lace-up design, durable sole, and stylish stitching.',
  'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_boot_3.png?raw=true',
  NOW(), 15, 'women'),
 
-('Black Suede Pointed-Toe Heel', 'Shoes', 'Black', '8', 64.99, 20,
+('Black Suede Pointed-Toe Heel', 'Heels', 'Black', '8', 64.99, 20,
  'Elegant black suede pointed-toe pump with a slim 3-inch heel and classic silhouette.',
  'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_heel_1.png?raw=true',
  NOW(), 16, 'women'),
 
-('Blush Pink High Heel Pump', 'Shoes', 'Pink', '8', 67.99, 18,
+('Blush Pink High Heel Pump', 'Heels', 'Pink', '8', 67.99, 18,
  'Soft blush pink suede pump featuring a pointed toe and refined high heel design.',
  'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_heel_2.png?raw=true',
  NOW(), 17, 'women'),
 
-('Beige Classic High Heel Pump', 'Shoes', 'Beige', '8', 69.99, 22,
+('Beige Classic High Heel Pump', 'Heels', 'Beige', '8', 69.99, 22,
  'Versatile beige pointed-toe pump with smooth texture and a slender 3.5-inch heel.',
  'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_heel_3.png?raw=true',
  NOW(), 18, 'women'),
 
-('Cream Canvas Tote Bag', 'Accessories', 'Cream', 'One Size', 29.99, 30,
+('Cream Canvas Tote Bag', 'Bags', 'Cream', 'One Size', 29.99, 30,
  'Minimalist cream canvas tote bag with reinforced handles and clean stitching.',
  'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_bag_1.png?raw=true',
  NOW(), 19, 'women'),
 
-('Black Crescent Shoulder Bag', 'Accessories', 'Black', 'One Size', 39.99, 24,
+('Black Crescent Shoulder Bag', 'Bags', 'Black', 'One Size', 39.99, 24,
  'Sleek black faux-leather crescent bag featuring a padded strap and smooth grain texture.',
  'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_bag_2.png?raw=true',
  NOW(), 20, 'women'),
 
-('Olive Green Crossbody Bag', 'Accessories', 'Green', 'One Size', 42.99, 22,
+('Olive Green Crossbody Bag', 'Bags', 'Green', 'One Size', 42.99, 22,
  'Compact olive green crossbody with gold hardware and a soft matte finish.',
  'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_bag_3.png?raw=true',
  NOW(), 21, 'women'),
 
-('Gold Opal Pendant Necklace', 'Accessories', 'Gold', 'One Size', 49.99, 35,
+('Gold Opal Pendant Necklace', 'Jewelry', 'Gold', 'One Size', 49.99, 35,
  'Delicate gold chain necklace featuring an iridescent oval opal pendant.',
  'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_jewelry_1.png?raw=true',
  NOW(), 22, 'women'),
 
-('Gold Gemstone Hoop Earring', 'Accessories', 'Gold', 'One Size', 34.99, 40,
+('Gold Gemstone Hoop Earring', 'Jewelry', 'Gold', 'One Size', 34.99, 40,
  'Polished gold hoop earring adorned with three clear faceted gemstones.',
  'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_jewelry_2.png?raw=true',
  NOW(), 23, 'women'),
 
-('Gold Onyx Signet Ring', 'Accessories', 'Gold/Black', '7', 44.99, 28,
+('Gold Onyx Signet Ring', 'Jewelry', 'Gold/Black', '7', 44.99, 28,
  'Elegant gold signet ring featuring a smooth oval black onyx stone.',
  'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_jewelry_3.png?raw=true',
  NOW(), 24, 'women'),
 
-('Cream Woven Sun Hat', 'Accessories', 'Cream', 'One Size', 24.99, 30,
+('Cream Woven Sun Hat', 'Hats', 'Cream', 'One Size', 24.99, 30,
  'Lightweight cream woven sun hat with a soft brim and textured spiral weave.',
  'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_hat_1.png?raw=true',
  NOW(), 25, 'women'),
 
-('Black Wide-Brim Bucket Hat', 'Accessories', 'Black', 'One Size', 21.99, 28,
+('Black Wide-Brim Bucket Hat', 'Hats', 'Black', 'One Size', 21.99, 28,
  'Minimalist black bucket hat made from soft fabric with circular stitched detailing.',
  'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_hat_2.png?raw=true',
  NOW(), 26, 'women'),
 
-('Navy Blue Baseball Cap', 'Accessories', 'Navy', 'One Size', 19.99, 35,
+('Navy Blue Baseball Cap', 'Hats', 'Navy', 'One Size', 19.99, 35,
  'Classic navy blue six-panel baseball cap with a curved brim and fine topstitching.',
  'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/women_hat_3.png?raw=true',
  NOW(), 27, 'women'),
 
+('Black Classic Crewneck Tee', 'Shirts', 'Black', 'L', 21.99, 40,
+ 'Soft black crewneck T-shirt with a clean, modern fit and smooth cotton texture.',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/men_shirt_1.png?raw=true',
+ NOW(), 28, 'men'),
+
+('White Short-Sleeve Button-Down Shirt', 'Shirts', 'White', 'L', 34.99, 28,
+ 'Crisp white button-down shirt featuring a short-sleeve design and front chest pocket.',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/men_shirt_2.png?raw=true',
+ NOW(), 29, 'men'),
+
+('Olive Green Crewneck Tee', 'Shirts', 'Green', 'L', 21.99, 36,
+ 'Minimalist olive green crewneck T-shirt with a versatile everyday fit.',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/men_shirt_3.png?raw=true',
+ NOW(), 30, 'men'),
+
+('Black Straight-Leg Jeans', 'Pants', 'Black', 'L', 44.99, 32,
+ 'Classic black straight-leg denim with a clean modern fit and durable construction.',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/men_pants_1.png?raw=true',
+ NOW(), 31, 'men'),
+
+('Beige Straight-Leg Chino Pants', 'Pants', 'Beige', 'L', 42.99, 28,
+ 'Versatile beige chinos with a straight-leg cut and soft lightweight cotton feel.',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/men_pants_2.png?raw=true',
+ NOW(), 32, 'men'),
 
 
+-- Second part
 
+('Blue Regular-Fit Denim Jeans', 'Pants', 'Blue', 'L', 45.99, 30,
+ 'Medium-blue regular-fit jeans with classic stitching and a comfortable everyday style.',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/men_pants_3.png?raw=true',
+ NOW(), 33, 'men'),
+
+('Beige Casual Chino Shorts', 'Shorts', 'Beige', 'L', 29.99, 30,
+ 'Lightweight beige chino shorts with a flat front, clean stitching, and a comfortable modern fit.',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/men_shorts_1.png?raw=true',
+ NOW(), 34, 'men'),
+
+('Tan Straight-Leg Chino Shorts', 'Shorts', 'Tan', 'L', 28.99, 28,
+ 'Classic tan straight-leg chino shorts featuring a button closure and soft cotton construction.',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/men_shorts_2.png?raw=true',
+ NOW(), 35, 'men'),
+
+('Navy Blue Athletic Shorts', 'Shorts', 'Navy', 'L', 24.99, 35,
+ 'Comfortable navy athletic shorts with an elastic waistband and deep side pockets for everyday wear.',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/men_shorts_3.png?raw=true',
+ NOW(), 36, 'men'),
+
+
+('White Low-Top Canvas Sneaker', 'Sneakers', 'White', '11', 49.99, 30,
+ 'Clean white low-top sneaker with a minimalist canvas upper and durable rubber sole.',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/men_sneaker_1.png?raw=true',
+ NOW(), 37, 'men'),
+
+('Beige Suede Casual Sneaker', 'Sneakers', 'Beige', '11', 54.99, 26,
+ 'Soft beige suede sneaker featuring tonal stitching and a cushioned insole for daily comfort.',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/men_sneaker_2.png?raw=true',
+ NOW(), 38, 'men'),
+
+('Black Athletic Running Sneaker', 'Sneakers', 'Black', '11', 59.99, 28,
+ 'All-black athletic running shoe with breathable mesh panels and a rugged outsole.',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/men_sneaker_3.png?raw=true',
+ NOW(), 39, 'men'),
+
+('Tan Suede Lace-Up Boot', 'Boots', 'Tan', '11', 89.99, 20,
+ 'Rugged tan suede lace-up boot with metal eyelets, durable welt construction, and a deep-tread outsole.',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/men_boot_1.png?raw=true',
+ NOW(), 40, 'men'),
+
+('Brown Leather Cap-Toe Boot', 'Boots', 'Brown', '11', 94.99, 18,
+ 'Premium brown leather cap-toe boot featuring classic stitching, solid laces, and a stacked heel.',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/men_boot_2.png?raw=true',
+ NOW(), 41, 'men'),
+
+('Light Tan Suede Work Boot', 'Boots', 'Tan', '11', 92.99, 22,
+ 'Light tan suede work boot with round laces, reinforced stitching, and a heavy-duty lug sole.',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/men_boot_3.png?raw=true',
+ NOW(), 42, 'men'),
+
+('Black Textured Comfort Slide', 'Slides', 'Black', '11', 24.99, 35,
+ 'Minimalist black comfort slide with a wide textured strap and cushioned contoured footbed.',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/men_slide_1.png?raw=true',
+ NOW(), 43, 'men'),
+
+('Black Double-Strap Slide', 'Slides', 'Black', '11', 26.99, 32,
+ 'Modern black slide featuring two adjustable straps and a durable molded sole.',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/men_slide_2.png?raw=true',
+ NOW(), 44, 'men'),
+
+('Black Sport Performance Slide', 'Slides', 'Black', '11', 27.99, 30,
+ 'Lightweight sport slide with a padded strap and ridged outsole for enhanced traction.',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/men_slide_3.png?raw=true',
+ NOW(), 45, 'men'),
+
+-- =========================
+-- MEN'S HATS (3)
+-- =========================
+('Navy Knit Beanie', 'Hats', 'Navy', 'One Size', 19.99, 30,
+ 'Soft navy knit beanie with a folded cuff and ribbed texture for everyday warmth.',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/men_hat_1.png?raw=true',
+ NOW(), 46, 'men'),
+
+('Black Classic Bucket Hat', 'Hats', 'Black', 'One Size', 22.99, 28,
+ 'Minimalist black bucket hat with a wide stitched brim and softly structured crown.',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/men_hat_2.png?raw=true',
+ NOW(), 47, 'men'),
+
+('Olive Green Bucket Hat', 'Hats', 'Green', 'One Size', 22.99, 26,
+ 'Olive green bucket hat featuring a relaxed fit and circular stitched brim for casual style.',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/men_hat_3.png?raw=true',
+ NOW(), 48, 'men'),
+
+('Silver Curb-Link Chain Necklace', 'Chains', 'Silver', 'One Size', 34.99, 40,
+ 'Polished silver curb-link chain necklace featuring interlocking links and a secure lobster clasp.',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/men_chain_1.png?raw=true',
+ NOW(), 49, 'men'),
+
+('Silver Heavy Curb Chain Necklace', 'Chains', 'Silver', 'One Size', 39.99, 35,
+ 'Thick silver heavy curb chain with a reflective finish and sturdy clasp hardware.',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/men_chain_2.png?raw=true',
+ NOW(), 50, 'men'),
+
+('Silver Cuban-Link Chain Necklace', 'Chains', 'Silver', 'One Size', 42.99, 32,
+ 'Bold Cuban-link chain necklace crafted in polished silver with dense interlocking links.',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/men_chain_3.png?raw=true',
+ NOW(), 51, 'men'),
+
+('Black Dial Stainless Steel Watch', 'Watches', 'Silver/Black', 'One Size', 79.99, 20,
+ 'Minimalist stainless steel men’s watch featuring a matte black dial, slim markers, and date window.',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/men_watch_1.png?raw=true',
+ NOW(), 52, 'men'),
+
+('Green Sunburst Dial Stainless Steel Watch', 'Watches', 'Silver/Green', 'One Size', 84.99, 18,
+ 'Elegant men’s watch with a green sunburst dial, polished silver markers, and a brushed stainless bracelet.',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/men_watch_2.png?raw=true',
+ NOW(), 53, 'men'),
+
+('White Dial Stainless Steel Watch', 'Watches', 'Silver/White', 'One Size', 82.99, 22,
+ 'Classic stainless steel men’s watch featuring a crisp white dial, black markers, and date display.',
+ 'https://github.com/Evan-Bain/Pictures/blob/main/software_project_images/men_watch_3.png?raw=true',
+ NOW(), 54, 'men');
